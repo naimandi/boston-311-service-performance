@@ -1,7 +1,7 @@
 # Boston 311 Service Request Analysis and Visualization
 
 ### Purpose 
-This project focuses on KPI and metric visualization to evaluate service-level agreement (SLA) compliance for municipal 311 service requests in the City of Boston. The analysis examines overall performance as well as time-based trends, including resolution times, , case volume, and geographic pattern.
+This project analyzes Boston 311 service request data to track and visualize key aspects of service performance, including case volume trends, resolution times, SLA compliance, overdue cases, department-level performance, and neighborhood-level service outcomes. Interactive dashboards created in Tableau allow exploration of both time-based trends and overall service patterns.
 
 ### Data 
 Source: Boston Open Data Portal – 311 Service Requests
@@ -17,5 +17,5 @@ Tableau Project Links:
 
 ## Interactive Dashboards
 
-- [311 Service Requests Dashboard — Overall Performance](https://public.tableau.com/shared/YBT6363G8?:display_count=n&:origin=viz_share_link)  
+- [311 Service Requests Dashboard — Overall Analysis](https://public.tableau.com/shared/YBT6363G8?:display_count=n&:origin=viz_share_link)  
 - [311 Service Requests Dashboard — Yearly Trends ](https://public.tableau.com/shared/6P56PKBSX?:display_count=n&:origin=viz_share_link)

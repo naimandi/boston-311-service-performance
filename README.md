@@ -17,5 +17,5 @@ Tableau Project Links:
 
 ## Interactive Dashboards
 
-- [Boston 311 Service Requests Dashboard — Overall Analysis](https://public.tableau.com/views/Boston311ServiceRequestVisualizations/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- [Boston 311 Service Requests Dashboard — Overall Analysis](https://public.tableau.com/shared/RPF8W69CF?:display_count=n&:origin=viz_share_link)  
 - [Boston 311 Service Requests Dashboard — Yearly Trends ](https://public.tableau.com/views/Boston311ServiceRequestVisualizations/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

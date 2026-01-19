@@ -13,9 +13,8 @@ https://data.boston.gov/dataset/311-service-requests
 -  `clean.ipynb`: This script reads the merged Boston 311 dataset and performs data quality assessment and cleaning to prepare it for analysis.
 -  `eda.ipynb`: Performs exploratory data analysis on the cleaned Boston 311 dataset and prepares pre-aggregated tables for Tableau dashboards. It parses dates, computes SLA compliance, and summarizes time-based trends such as case volume, median resolution times, and SLA compliance over time. It also aggregates overall performance metrics, top departments, top request types, and neighborhood-level SLA data over all years. All results are saved as CSV files ready for Tableau, allowing interactive dashboards without heavy data processing. Python visualizations are used to verify trends and distributions before export.
 
-Tableau Project Links:
 
-## Interactive Dashboards
+## Tableau Dashboards
 
 - [Boston 311 Service Requests Dashboard — Overall Analysis](https://public.tableau.com/shared/RPF8W69CF?:display_count=n&:origin=viz_share_link)  
 - [Boston 311 Service Requests Dashboard — Yearly Trends ](https://public.tableau.com/views/Boston311ServiceRequestVisualizations/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
